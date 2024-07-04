@@ -1,2 +1,2 @@
 # sc
-methode de box and jenkins
+methode de box et jenkins
